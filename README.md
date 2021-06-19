@@ -56,6 +56,14 @@ const user = {
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSChervenkov19&layout=compact&theme=radical"  height="180">
     </a>
    </p>
+  
+  <h1 align="center">🔥 Activity: </h1>
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=KSChervenkov19&theme=radical">
+    </a>
+   <img src="https://wakatime.com/share/@affd3730-6a19-49ff-bb44-d69e6c10b999/09a34c68-3ca4-4a7c-ad03-b4f44ad8de5f.svg"></img>
+   </p>
    
    <h1 align="center"> Skills & Tools: </h1>
 
