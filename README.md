@@ -21,14 +21,12 @@ const user = {
   languages: [ "JavaScript", "C++", "SASS/CSS", "HTML", "SQL", ],
   myeditors: [ "VS Code", "VIM", "neovim", "VS", "repl.it", ],
   
-  thank_you: "Everyone",
-  
   learnNewLanguage: function () {
-    console.log("Ruby, Python, C#")
+    console.log("Ruby, Python, Java")
   },
   
   learnNewLibraries: function () {
-    console.log("React, jQuery")
+    console.log("React Native, jQuery")
   },
   
   Eating: function (food) {
