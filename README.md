@@ -14,7 +14,7 @@ const user = {
   user_name: "Kalin Chervenkov",
   my_age_no: 16,
   fav_theme: [ "dark", "radical", "high-contrast"],
-  fav_color: #911f37,
+  fav_color: #30fff5,
   
   myhobbies: [ "Programming", "Hiking", "DH Cycling", "Playing Tennis", "Gaining Knowledge", ],
   knowledge: [ "∞", ],
