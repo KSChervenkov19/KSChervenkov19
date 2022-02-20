@@ -12,11 +12,11 @@
 ```js
 const user = {
   user_name: "Kalin Chervenkov",
-  my_age_no: 16,
+  my_age_no: 17,
   fav_theme: [ "dark", "radical", "high-contrast"],
   fav_color: #30fff5,
   
-  myhobbies: [ "Programming", "Hiking", "DH Cycling", "Playing Tennis", "Gaining Knowledge", ],
+  myhobbies: [ "Programming", "Hiking", "Cycling", "Playing Tennis", "Gaining Knowledge", ],
   knowledge: [ "∞", ],
   languages: [ "JavaScript", "C++", "SASS/CSS", "HTML", "SQL", ],
   myeditors: [ "VS Code", "VIM", "neovim", "VS", "repl.it", ],
@@ -26,7 +26,7 @@ const user = {
   },
   
   learnNewLibraries: function () {
-    console.log("React Native, jQuery")
+    console.log("React Native, WA")
   },
   
   Eating: function (food) {
